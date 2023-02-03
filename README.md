@@ -12,4 +12,4 @@ setp 5:  copy this link tag ---> **< link rel="stylesheet" href="./icons/css/ico
 
 setp 6: paste the tag in your html head tag
 
---------- thats it (done) -----------
+----------- thats it (done) -----------
