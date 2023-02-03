@@ -8,7 +8,8 @@ step 3: copy the **icons foldeer**
 
 step 4: paste the folder in your project root directory 
 
-setp 5:  copy this link tag ---> **< link rel="stylesheet" href="./icons/css/icon.css">**
+setp 5:  copy this link tag --->
+**&#60;link rel="stylesheet"href="./icons/css/icon.css">**
 
 setp 6: paste the tag in your html head tag
 
