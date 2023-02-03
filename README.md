@@ -4,7 +4,7 @@ step 1: download the **sb_icons.zip** file
 
 step 2: extract the file
 
-step 3: copy the **icons* foldeer**
+step 3: copy the **icons foldeer**
 
 step 4: paste the folder in your project root directory 
 
