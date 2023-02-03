@@ -10,6 +10,6 @@ step 4: paste the folder in your project root directory
 
 setp 5:  copy this link tag ---> **< link rel="stylesheet" href="./icons/css/icon.css">**
 
-setp 6: paste in your html head tag
+setp 6: paste the tag in your html head tag
 
 --------- thats it (done) -----------
