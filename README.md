@@ -1,4 +1,4 @@
-# how-to-use-icons
+# how to use icons
 
 step 1: download the 'sb_icons.zip' file
 
