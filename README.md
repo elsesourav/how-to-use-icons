@@ -1,9 +1,9 @@
 # <h1 align="center"> **`How to use icons`** </h1>
 
-## `STEP 1:` Download the **sb_icons.zip** File
-> ### Download: Get the **sb_icons.zip** file from the **Repository** or **SB Icons Website**
+## `STEP 1:` Download the [sb_icons.zip](https://github.com/elsesourav/how-to-use-icons/raw/main/sb_icons.zip) File
+> ### Download: Get the sb_icons.zip file from this page or SB Icons Website
 ## `STEP 2:` Extract the File
-> ### Extract: Unzip the **sb_icons.zip** file to a location on your computer.
+> ### Extract: Unzip the sb_icons.zip file to a location on your computer.
 ## `STEP 3:` Copy the icons Folder
 > ### Copy: Find the icons folder inside the extracted files and copy it.
 ## `STEP 4:` Paste the Folder in Your Project Root Directory
@@ -43,4 +43,5 @@
 ```
 ## <p align="center"> `That's it! (done)` </p>
 
-# Website link [SB Icons](https://elsesourav.github.io/icons/)
+- # File download link [sb_icons.zip](https://github.com/elsesourav/how-to-use-icons/raw/main/sb_icons.zip)
+- # Website link [SB Icons](https://elsesourav.github.io/icons/)
