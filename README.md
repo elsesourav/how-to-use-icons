@@ -35,10 +35,12 @@
       <link rel="stylesheet" href="./icons/css/icon.css">
    </head>
    <body>
-      <p>Home Icon: <i class="icon icon-home"></i></p>
-      <p>User Icon: <i class="icon icon-user"></i></p>
+      <p>Home Icon: <i class="sbi-home"></i></p>
+      <p>User Icon: <i class="sbi-user"></i></p>
       <!-- Add more icons as needed -->
    </body>
    </html>
 ```
 ## <p align="center"> `That's it! (done)` </p>
+
+# Website link [SB Icons](https://elsesourav.github.io/icons/)
